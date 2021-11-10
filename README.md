@@ -1,5 +1,5 @@
-### Hi there 👋, I am Rahul
-#### Android Developer.
+# Hi there 👋, I am Rahul
+## Android Developer.
 I am Rahul from Nepal. I am currently learning Full Stack Android development. I really enjoy developing android apps. You can check my LinkedIn at https://www.linkedin.com/in/ryadav99/ .
 
 ## Skills
@@ -8,7 +8,11 @@ I am Rahul from Nepal. I am currently learning Full Stack Android development. I
 * Android Development
 * Retrofit
 * Glide
-* 
+* SQL
+* Room Database
+* MVVM Architecture
+* Firebase
+* Android Jetpack
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Android Development 
