@@ -2,7 +2,7 @@
 ## Android Developer.
 I am from Nepal. I am currently learning Full Stack Android development. I really enjoy developing android apps. You can check my LinkedIn at https://www.linkedin.com/in/ryadav99/ and my portfolio at https://rahul-53.github.io/portfolio.github.io/
 
-##Skills
+## Skills
 * Android
 * Kotlin
 * Java
