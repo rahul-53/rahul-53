@@ -1,5 +1,5 @@
 # Hi there I am Rahul.
-## Android Developer.
+
 Self motivated and passionate Android
 developer with a keen interest in
 constantly updating my skills and
