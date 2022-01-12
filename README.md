@@ -1,6 +1,12 @@
 # Hi there I am Rahul.
 ## Android Developer.
-I am from Nepal. I am currently learning Full Stack Android development. I really enjoy developing android apps. You can check my LinkedIn at https://www.linkedin.com/in/ryadav99/ and my portfolio at https://rahul-53.github.io/portfolio.github.io/
+Self motivated and passionate Android
+developer with a keen interest in
+constantly updating my skills and
+knowledge. Looking forward to taking on a
+challenging role in an organization while
+gaining extensive development experience
+and hands-on technical expertise. You can check my LinkedIn at https://www.linkedin.com/in/ryadav99/ and my portfolio at https://rahul-53.github.io/portfolio.github.io/
 
 ## Skills
 * Android
