@@ -20,9 +20,6 @@ I am from Nepal. I am currently learning Full Stack Android development. I reall
 
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-53)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul-53&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rahul-53)  
