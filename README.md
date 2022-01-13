@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MVVM Architecture**
 
-- 👨‍💻 All of my projects are available at [https://rahul-53.github.io/portfolio.github.io/](https://rahul-53.github.io/portfolio.github.io/)
+- 👨‍💻 My [Portfolio](https://rahul-53.github.io/portfolio.github.io/)
 
 - 📫 How to reach me **yrahul0620@gmail.com**
 
