@@ -21,15 +21,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-53&" alt="rahul-53" /></p>
 
-
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rahul-53)  
 ## Projects
 ![Grofers clone](https://github.com/chekeAditya/Grofers)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul-53&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rahul-53)  
 
 
 
