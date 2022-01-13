@@ -39,6 +39,9 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rahul-53)  
 ## Projects
 ![Grofers clone](https://github.com/chekeAditya/Grofers)
+![QuoteApp](https://github.com/rahul-53/QuotesApp)
+![Daily News](https://github.com/rahul-53/DailyNews)
+
 
 
 
