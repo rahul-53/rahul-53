@@ -32,7 +32,7 @@
 
 <p>&nbsp<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-53" alt="rahul-53" /></p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rahul-53&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rahul's github activity graph](https://activity-graph.herokuapp.com/graph?username=rahul-53&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Projects
 - [Grofers clone](https://github.com/chekeAditya/Grofers)
