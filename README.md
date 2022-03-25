@@ -34,8 +34,7 @@
 
 
 
-
-[![Rahul's github activity graph](https://activity-graph.herokuapp.com/graph?username=rahul-53&theme=react-dark)](https://github.com/rahul-53/github-readme-activity-graph) 
+[Rahul's github activity graph](https://activity-graph.herokuapp.com/graph?username=rahul-53&theme=react-dark)](https://github.com/rahul-53/github-readme-activity-graph) 
 ## Projects
 - [Grofers clone](https://github.com/chekeAditya/Grofers)
 - [QuoteApp](https://github.com/rahul-53/QuotesApp)
