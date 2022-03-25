@@ -34,6 +34,8 @@
 
 ## Projects
 - [Grofers clone](https://github.com/chekeAditya/Grofers)
+- [QuoteApp](https://github.com/rahul-53/QuotesApp)
+- [Daily News](https://github.com/rahul-53/DailyNews)
 
 
 
