@@ -31,10 +31,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-53&show_icons=true&locale=en" alt="rahul-53" /></p>
 
 <p>&nbsp<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-53" alt="rahul-53" /></p>
-## Projects
-- [Grofers clone](https://github.com/chekeAditya/Grofers)
-- [QuoteApp](https://github.com/rahul-53/QuotesApp)
-- [Daily News](https://github.com/rahul-53/DailyNews)
+
+
 
 
 
