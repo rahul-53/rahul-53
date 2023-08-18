@@ -37,7 +37,7 @@
 ## Projects
 - [Grofers clone](https://github.com/chekeAditya/Grofers)
 - [QuoteApp](https://github.com/rahul-53/QuotesApp)
-- [Daily News](https://github.com/rahul-53/DailyNews)
+- [Image Flip game](https://github.com/rahul-53/ImageGame)
 
 
 
