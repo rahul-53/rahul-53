@@ -37,12 +37,8 @@
 </p>
 
 ![rahul-53's Stats](https://github-readme-stats.vercel.app/api?username=rahul-53&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
-<P>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-53&show_icons=true&locale=en&layout=compact" alt="rahul-53" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rahul-53&show_icons=true&locale=en" alt="rahul-53" /></p>
-</P>
-
-<p>&nbsp<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-53" alt="rahul-53" /></p>
+![rahul-53's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahul-53&theme=blue-green&hide_border=true)
+![rahul-53's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-53&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
 
 ## Projects
 - [Grofers clone](https://github.com/chekeAditya/Grofers)
