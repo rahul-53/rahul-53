@@ -37,7 +37,7 @@
 </p>
 
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul-53&show_icons=true&theme=transparent)
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-53&exclude_repo=github-readme-stats,rahul-53.github.io)
 <P>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-53&show_icons=true&locale=en&layout=compact" alt="rahul-53" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rahul-53&show_icons=true&locale=en" alt="rahul-53" /></p>
