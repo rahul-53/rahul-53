@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-53&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-53" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rahul-53&theme=vue-dark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rahul-53&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👨‍💻 I’m currently learning [Dagger2](https://dagger.dev/)
 
